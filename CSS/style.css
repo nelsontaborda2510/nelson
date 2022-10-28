@@ -1,0 +1,29 @@
+body {
+	background: rgb(255, 153, 209);
+	margin: 0;
+	padding: 0;
+}
+
+#banner {
+	width: 100%
+	
+
+}
+
+h1 {
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+	text-align: center;
+	font-size: 70px;
+
+}
+
+p {
+	text-align: center;
+	font-size: 25px;
+
+}
+
+
+
+
+
